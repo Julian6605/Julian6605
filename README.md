@@ -1,6 +1,6 @@
 ### Hi 👋, Mi nombre es Julian
 #### Estudiante de Ingeniería en Sistemas
-![Estudiante de Ingeniería en Sistemas](https://octodex.github.com/images/daftpunktocat-thomas.gif)
+![Estudiante de Ingeniería en Sistemas](https://octodex.github.com/images/daftpunktocat-thomas.gif height='100')
 
 Estudiante de ingeniería de sistemas de la universidad Santiago de Cali, actualmente culminando decimo semestre. Trabajo como analista de Calidad, realizando pruebas funcionales. 
 
