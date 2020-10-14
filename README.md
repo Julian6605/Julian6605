@@ -1,6 +1,6 @@
 ### Hi 👋, Mi nombre es Julian
 #### Estudiante de Ingeniería en Sistemas
-![Estudiante de Ingeniería en Sistemas](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Estudiante de Ingeniería en Sistemas](https://octodex.github.com/images/daftpunktocat-thomas.gif)
 
 Estudiante de ingeniería de sistemas de la universidad Santiago de Cali, actualmente culminando decimo semestre. Trabajo como analista de Calidad, realizando pruebas funcionales. 
 
